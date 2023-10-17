@@ -1,0 +1,104 @@
+.footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;   
+}
+
+.container{
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action{
+    background-color: #3882F6;
+    height: 100px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    color: white;
+    flex: 1;
+}
+
+.quote{
+    background-color:#E5E7EB;
+    
+}
+
+.containerga {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: lightblue; /* Add a background color or other styling */
+    margin: 5px; /* Add spacing around the box */
+}
+
+.items-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px; /* Add spacing between items */
+}
+
+.textga {
+    margin-top: 5px; /* Add space between the box and text */
+}
+
+
+.awesome{
+    width:850px ;
+    height:340px ;
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.awesomeson2{
+    background-color: grey;
+    margin: 50px;
+    height: 150px;
+    width: 500px;
+}
+
+.header{        
+    background-color: rgb(23, 116, 231)  ;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    margin-left: 60px;
+}
+
+.links{
+    list-style: none;
+    display: flex;
+    margin-left: auto;
+}
+
+.linkz{
+    padding: 10px;
+    margin: 5px;
+} 
+
